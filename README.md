@@ -1,0 +1,1 @@
+A test to track changes of coordinates using location listener
